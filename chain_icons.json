@@ -2119,6 +2119,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "dojima",
+  "icons": [{
+    "url": "ipfs://QmarhJVEb6jVNfW1GP2rcvAfto6DFdr7RSauZQxjd3iFam",
+    "width": 379,
+    "height": 379,
+    "format": "png"
+  }]
+}, {
   "name": "genesyscode",
   "icons": [{
     "url": "ipfs://bafkreihgmpaceze7rxpajv7yrlx3cb6daqubippkpvgryzairtaubsjjoe",
