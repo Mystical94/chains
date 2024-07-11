@@ -2220,7 +2220,7 @@
   },
   "rpc": ["https://rpc-test-d11k.dojima.network"],
   "faucets": [],
-  "infoURL": "https://www.dojima.network"
+  "infoURL": "https://www.dojima.network/"
 }, {
   "name": "Mint Mainnet",
   "chainId": 185,
@@ -2259,7 +2259,7 @@
   },
   "rpc": ["https://rpc-d11k.dojima.network"],
   "faucets": [],
-  "infoURL": "https://www.dojima.network"
+  "infoURL": "https://www.dojima.network/"
 }, {
   "name": "BMC Mainnet",
   "chainId": 188,
