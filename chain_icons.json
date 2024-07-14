@@ -1255,6 +1255,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gobbl",
+  "icons": [{
+    "url": "ipfs://QmQbJTFnUfWf31d16beZfqM4Fo5NRJjryNrDMyNfj9YQnS",
+    "width": 1280,
+    "height": 1280,
+    "format": "png"
+  }]
+}, {
   "name": "web3games",
   "icons": [{
     "url": "ipfs://QmUc57w3UTHiWapNW9oQb1dP57ymtdemTTbpvGkjVHBRCo",
@@ -1805,6 +1813,14 @@
     "width": 512,
     "height": 512,
     "format": "svg"
+  }]
+}, {
+  "name": "race",
+  "icons": [{
+    "url": "ipfs://QmQGaiPkSHc8ZGLAE4A8yZdFWLeuEts4VX6FjEqnuPXvxh",
+    "width": 184,
+    "height": 417,
+    "format": "png"
   }]
 }, {
   "name": "scn",
@@ -2887,6 +2903,14 @@
     "format": "png"
   }]
 }, {
+  "name": "GuruNetwork",
+  "icons": [{
+    "url": "ipfs://QmTDWnSNSCcVPCYD1FKrUirkT2MVrShdVK9dsxAi6eZdbD",
+    "width": 70,
+    "height": 70,
+    "format": "svg"
+  }]
+}, {
   "name": "highbury",
   "icons": [{
     "url": "ipfs://bafkreiby27m6esbsjthmknckq5ktsaaj2z6hylzljbsmvx4fgezdra3q4m",
@@ -3268,6 +3292,14 @@
     "url": "ipfs://QmVxyUjuA8t9q3oWDgv8ExqaUXcRuDqiKrZAiLaBWHYcmG",
     "width": 722,
     "height": 813,
+    "format": "png"
+  }]
+}, {
+  "name": "dbkchain",
+  "icons": [{
+    "url": "ipfs://bafybeib7ovny3xkl4nr4a5oqvoqwf7dcjtqavydysclfmbavbl2oekhxty",
+    "width": 1600,
+    "height": 1600,
     "format": "png"
   }]
 }, {
@@ -3700,6 +3732,14 @@
     "url": "ipfs://Qmc44uSjfdNHdcxPTgZAL8eZ8TLe4UmSHibcvKQFyGJxTB",
     "width": 1024,
     "height": 1024,
+    "format": "png"
+  }]
+}, {
+  "name": "kymtc",
+  "icons": [{
+    "url": "ipfs://QmR1AnNYGeXpVmsKyzqktk4K1BtFPiaJpeXuLktb9Kwmer",
+    "width": 1042,
+    "height": 1038,
     "format": "png"
   }]
 }, {
@@ -4463,6 +4503,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "weavevm",
+  "icons": [{
+    "url": "ipfs://QmZrL43kuLcK14gQo1cVbzwczcVULxN6NKb4EcjYpFpE7w",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "gmmt",
   "icons": [{
     "url": "ipfs://QmVth4aPeskDTFqRifUugJx6gyEHCmx2PFbMWUtsCSQFkF",
@@ -4711,6 +4759,14 @@
     "format": "png"
   }]
 }, {
+  "name": "altarTestnet",
+  "icons": [{
+    "url": "ipfs://QmZiJLjciV6KiuxwDebi7CwRhDzei6KKDuStppzsUGtNfN",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "kalichain",
   "icons": [{
     "url": "ipfs://bafkreieox7v337p3jfhd37dz74mq6mn3uk5i5475rmzpirmyp6ydcfzzqi",
@@ -4897,9 +4953,9 @@
 }, {
   "name": "core",
   "icons": [{
-    "url": "ipfs://QmeTQaBCkpbsxNNWTpoNrMsnwnAEf1wYTcn7CiiZGfUXD2",
-    "width": 200,
-    "height": 217,
+    "url": "ipfs://QmdUgiGaD6fGjhb9x1NvfccvEBBFq2YHSm9yb8FNhpwHkW",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -5132,6 +5188,14 @@
     "url": "ipfs://QmSgvmLpRsCiu2ySqyceA5xN4nwi7URJRNEZLffwEKXdoR",
     "width": 1028,
     "height": 1042,
+    "format": "png"
+  }]
+}, {
+  "name": "avenium",
+  "icons": [{
+    "url": "ipfs://QmU5yJvjdeVGzNutn2U6wLWfHDGsDafLfZg7HRJ8ji3yfJ",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
